@@ -1,0 +1,10 @@
+PG Bases de données
+
+Moteurs de SGBDR
+SQL : SQL Server, PostgreSQL, MariaDB, Oracle - Maintenance, sauvegardes, restauration et tunning
+SQL, Transact-SQL, PL/pgSQL, procédures stockées, triggers
+Administration de BDD : SQL Server, PostgreSQL,
+Business Intelligence : DataWarehouse, ETL (SSIS); Reporting (SSRS), PowerBI Deskstop, Cube(SSAS)
+
+
+
